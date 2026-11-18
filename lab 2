@@ -1,0 +1,64 @@
+# Arithmetic Operators
+
+a = 10
+b = 5
+
+print("Addition:", a + b)
+print("Subtraction:", a - b)
+print("Multiplication:", a * b)
+print("Division:", a / b)
+print("Modulus:", a % b)
+print("Power:", a ** b)
+print("Floor Division:", a // b)
+
+# Relational Operators
+
+a = 10
+b = 20
+
+print(a == b)
+print(a != b)
+print(a > b)
+print(a < b)
+print(a >= b)
+print(a <= b)
+
+# Logical Operators
+
+a = 10
+b = 20
+
+print(a > 5 and b > 15)
+print(a > 15 or b > 15)
+print(not(a > 5))
+
+# Assignment Operators
+
+a = 10
+
+a += 5
+print("Addition:", a)
+
+a -= 3
+print("Subtraction:", a)
+
+a *= 2
+print("Multiplication:", a)
+
+# Input and Output – Add Two Numbers
+
+a = int(input("Enter first number: "))
+b = int(input("Enter second number: "))
+
+sum = a + b
+
+print("Sum =", sum)
+
+# Input and Output – Area of Circle
+
+radius = float(input("Enter radius: "))
+
+area = 3.14 * radius * radius
+
+print("Area of Circle =", area)
+
