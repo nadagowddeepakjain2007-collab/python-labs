@@ -1,0 +1,27 @@
+PS C:\Users\ADMIN\AppData\Local\Programs\Microsoft VS Code> & 'C:\Users\ADMIN\.local\bin\python3.14.exe' '"c:/Users/ADMIN/OneDrive/Documents/python lab programs/lab 2"'
+Addition: 15
+Subtraction: 5
+Multiplication: 50
+Division: 2.0
+Modulus: 0
+Power: 100000
+Floor Division: 2
+False
+True
+False
+True
+False
+True
+True
+True
+False
+Addition: 15
+Subtraction: 12
+Multiplication: 24
+Enter first number: 7
+Enter second number: 9
+Sum = 16
+Enter radius: 5
+Area of Circle = 78.5
+PS C:\Users\ADMIN\AppData\Local\Programs\Microsoft VS Code> 
+
