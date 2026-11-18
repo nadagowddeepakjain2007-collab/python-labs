@@ -1,0 +1,12 @@
+PS C:\Users\ADMIN\AppData\Local\Programs\Microsoft VS Code> & 'C:\Users\ADMIN\.local\bin\python3.14.exe' '"c:/Users/ADMIN/OneDrive/Documents/python lab programs/lab 1"'
+Hello, World!
+Name: Deepak
+Age: 18
+Sum = 30
+Addition: 30
+Subtraction: 10
+Multiplication: 200
+Division: 2.0
+Area of Rectangle = 50
+Simple Interest = 100.0
+PS C:\Users\ADMIN\AppData\Local\Programs\Microsoft VS Code> 
