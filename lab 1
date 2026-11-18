@@ -1,0 +1,48 @@
+#  Basic Python program programs using variables 
+
+print("Hello, World!")
+
+name = "Deepak"
+age = 18
+
+print("Name:", name)
+print("Age:", age)
+
+# Addition of Two Numbers
+
+a = 10
+b = 20
+
+sum = a + b
+
+print("Sum =", sum)
+
+# Program to Perform Arithmetic Operations
+
+a = 20
+b = 10
+
+print("Addition:", a + b)
+print("Subtraction:", a - b)
+print("Multiplication:", a * b)
+print("Division:", a / b)
+
+# Program to Calculate Area of a Rectangle
+
+length = 10
+breadth = 5
+
+area = length * breadth
+
+print("Area of Rectangle =", area)
+
+# Program to Calculate Simple Interest
+
+p = 1000
+r = 5
+t = 2
+
+si = (p * r * t) / 100
+
+print("Simple Interest =", si)
+
