@@ -1,0 +1,13 @@
+PS C:\Users\ADMIN\AppData\Local\Programs\Microsoft VS Code> & 'C:\Users\ADMIN\.local\bin\python3.14.exe' '"c:/Users/ADMIN/OneDrive/Documents/python lab programs/lab 11"'
+Enter number of students: 2
+Enter student name: deepak
+Enter USN: 25BTRGA054
+Enter marks: 99
+Enter student name: NITHYA
+Enter USN: 25BTRGA055
+Enter marks: 92
+
+Student Details:
+deepak,25BTRGA054,99
+NITHYA,25BTRGA055,92
+PS C:\Users\ADMIN\AppData\Local\Programs\Microsoft VS Code> 
