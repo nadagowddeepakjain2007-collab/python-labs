@@ -1,0 +1,6 @@
+PS C:\Users\ADMIN\AppData\Local\Programs\Microsoft VS Code> & 'C:\Users\ADMIN\.local\bin\python3.14.exe' '"c:/Users/ADMIN/OneDrive/Documents/python lab programs/lab 10"'
+Traceback (most recent call last):
+  File "c:\Users\ADMIN\OneDrive\Documents\python lab programs\lab 10", line 3, in <module>
+    file = open("log.txt", "r")
+FileNotFoundError: [Errno 2] No such file or directory: 'log.txt'
+PS C:\Users\ADMIN\AppData\Local\Programs\Microsoft VS Code> 
