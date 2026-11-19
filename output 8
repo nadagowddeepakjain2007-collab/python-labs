@@ -1,0 +1,14 @@
+PS C:\Users\ADMIN\AppData\Local\Programs\Microsoft VS Code> & 'C:\Users\ADMIN\.local\bin\python3.14.exe' '"c:/Users/ADMIN/OneDrive/Documents/python lab programs/lab 8"'
+Enter student name: C:\Users\ADMIN\.local\bin\python3.14.exe "c:/Users/ADMIN/OneDrive/Documents/python lab programs/lab 8"
+Enter marks in Subject 1: 85
+Enter marks in Subject 2: 86
+Enter marks in Subject 3: 69
+Enter marks in Subject 4: 99
+Enter marks in Subject 5: 100
+
+----- Student Result -----
+Name: C:\Users\ADMIN\.local\bin\python3.14.exe "c:/Users/ADMIN/OneDrive/Documents/python lab programs/lab 8"
+Total Marks: 439
+Average: 87.8
+Grade: A
+PS C:\Users\ADMIN\AppData\Local\Programs\Microsoft VS Code> 
