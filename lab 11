@@ -1,0 +1,27 @@
+# Student data manager using files
+
+# Writing student details into a file
+
+file = open("students.txt", "w")
+
+n = int(input("Enter number of students: "))
+
+for i in range(n):
+    name = input("Enter student name: ")
+    usn = input("Enter USN: ")
+    marks = input("Enter marks: ")
+
+    file.write(name + "," + usn + "," + marks + "\n")
+
+file.close()
+
+# Reading student details from file
+
+file = open("students.txt", "r")
+
+print("\nStudent Details:")
+
+for line in file:
+    print(line, end="")
+
+file.close()
