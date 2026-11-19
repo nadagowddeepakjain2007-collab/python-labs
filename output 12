@@ -1,0 +1,11 @@
+PS C:\Users\ADMIN\AppData\Local\Programs\Microsoft VS Code> & 'C:\Users\ADMIN\.local\bin\python3.14.exe' '"c:/Users/ADMIN/OneDrive/Documents/python lab programs/lab 12"'
+Enter number of employees: 1
+Enter Employee ID: 54
+Enter Employee Name: deepak
+Enter Basic Salary: 90000
+Enter Bonus: 60000
+
+Payroll Details:
+['Employee ID', 'Name', 'Basic Salary', 'Bonus', 'Total Salary']
+['54', 'deepak', '90000.0', '60000.0', '150000.0']
+PS C:\Users\ADMIN\AppData\Local\Programs\Microsoft VS Code> 
