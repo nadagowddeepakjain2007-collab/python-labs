@@ -1,0 +1,18 @@
+# Log File Reader Program in Python
+
+file = open("log.txt", "r")
+
+print("Log File Contents:")
+
+for line in file:
+    print(line, end="")
+
+file.close()
+
+# Sample Log File – log.txt:
+# Application Started
+# User Logged In
+# File Uploaded Successfully
+# Error: Connection Failed
+# User Logged Out
+# Application Closed
