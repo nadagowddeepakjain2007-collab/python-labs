@@ -1,0 +1,21 @@
+PS C:\Users\ADMIN\AppData\Local\Programs\Microsoft VS Code> & 'C:\Users\ADMIN\.local\bin\python3.14.exe' '"c:/Users/ADMIN/OneDrive/Documents/python lab programs/lab 14"'
+Book added successfully!
+Book added successfully!
+Book added successfully!
+
+Available Books:
+Python Programming
+Data Structures
+Computer Networks
+Book issued successfully!
+
+Available Books:
+Data Structures
+Computer Networks
+Book returned successfully!
+
+Available Books:
+Data Structures
+Computer Networks
+Python Programming
+PS C:\Users\ADMIN\AppData\Local\Programs\Microsoft VS Code> 
