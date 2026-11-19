@@ -1,0 +1,15 @@
+PS C:\Users\ADMIN\AppData\Local\Programs\Microsoft VS Code> & 'C:\Users\ADMIN\.local\bin\python3.14.exe' '"c:/Users/ADMIN/OneDrive/Documents/python lab programs/lab 13"'
+Enter account holder name: deepak
+Enter initial balance: 900000
+Account Holder: deepak
+Account Balance: 900000.0
+
+Enter deposit amount: 7800
+Amount deposited successfully
+Enter withdrawal amount: 8900
+Amount withdrawn successfully
+
+Final Account Details:
+Account Holder: deepak
+Account Balance: 898900.0
+PS C:\Users\ADMIN\AppData\Local\Programs\Microsoft VS Code> 
