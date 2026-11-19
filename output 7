@@ -1,0 +1,50 @@
+PS C:\Users\ADMIN\AppData\Local\Programs\Microsoft VS Code> & 'C:\Users\ADMIN\.local\bin\python3.14.exe' '"c:/Users/ADMIN/OneDrive/Documents/python lab programs/lab 7"'
+Enter number of contacts: 9
+Enter name: deepak
+Enter phone number: 8555865513
+Enter name: nithya
+Enter phone number: 9121153598
+Enter name: gowd
+Enter phone number: 9290700359
+Enter name: pushpa
+Enter phone number: 7672082141
+Enter name: rishi
+Enter phone number: 9392082234
+Enter name: sohini
+Enter phone number: 8296043679
+Enter name: mohan
+Enter phone number: 9494678788
+Enter name: anu
+Enter phone number: 8187078100
+Enter name: poorna
+Enter phone number: 6369147249
+
+Contact Book:
+Name: deepak
+Phone: 8555865513
+----------------
+Name: nithya
+Phone: 9121153598
+----------------
+Name: gowd
+Phone: 9290700359
+----------------
+Name: pushpa
+Phone: 7672082141
+----------------
+Name: rishi
+Phone: 9392082234
+----------------
+Name: sohini
+Phone: 8296043679
+----------------
+Name: mohan
+Phone: 9494678788
+----------------
+Name: anu
+Phone: 8187078100
+----------------
+Name: poorna
+Phone: 6369147249
+----------------
+PS C:\Users\ADMIN\AppData\Local\Programs\Microsoft VS Code> 
